@@ -1,4 +1,4 @@
-# vue-with-vuex2
+# vue-with-vuex
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
